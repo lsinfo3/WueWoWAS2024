@@ -3,6 +3,14 @@ permalink: /
 ---
 # WueWoWAS'24
 
+# Best Workshop Contribution WueWoWas'24
+
+We congratulate *Razvan-Mihai Ursu* for receiving the *Best Paper Award* at WueWoWAS'24 for his work titled *Towards Data-Driven Approaches for Network Digital Twins of Microservice-Based Architectures* co-authored by Navidreza Asadi, Leon Wong and Wolfgang Kellerer.
+
+
+<img src="{{ '/assets/images/bpa24_cropped.jpg' | relative_url }}" alt="image" style="width: 100%; margin-bottom: 10px;">
+
+
 The KuVS Fachgespräch - Würzburg Workshop on Next-Generation Communication Networks (WueWoWAS) focuses on preliminary and ongoing research (or previously published hot topic papers) on next-generation communication networks and the different ways of analyzing systems (WAS).
 
 Our discussions revolve around a wide array of subjects, touching upon next-generation network paradigms such as 5G, 6G, IoT, and industrial networks. We cover conceptual frameworks vital for future networks, including softwarization, edge computing, and the integration of AI and ML, fostering automation. Additionally, we explore the assessment of network performance, reliability, and resilience through various means such as measurements, modeling, simulation, and analysis, with a focus on enhancing aspects like QoS, QoE, and energy efficiency among others. The workshop will take place in-person in Würzburg, Germany.
