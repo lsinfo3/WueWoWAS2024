@@ -3,7 +3,7 @@ permalink: /
 ---
 # WueWoWAS'24
 
-# Best Workshop Contribution WueWoWas'24
+# Best Paper Award WueWoWas'24
 
 We congratulate *Razvan-Mihai Ursu* for receiving the *Best Paper Award* at WueWoWAS'24 for his work titled *Towards Data-Driven Approaches for Network Digital Twins of Microservice-Based Architectures* co-authored by Navidreza Asadi, Leon Wong and Wolfgang Kellerer.
 
